@@ -10,7 +10,7 @@
 - ✨ I will implement your great ideas to be live perfectly.
 
 #### MY STACKS
-- Pyhon, Django
+- Pyhon, Django, Flask
 - PHP, Laravel, Yii2, CodeIgniter
 - Nodejs, Expressjs, NestJS, Sequelize
 - HTML5, CSS3, SCSS, LESS, Bootstrap, TailwindCSS, Material UI, jQuery
