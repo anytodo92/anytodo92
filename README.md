@@ -10,7 +10,7 @@
 - ✨ I will implement your great ideas to be live perfectly.
 
 #### MY STACKS
-- Golang, Gorillar
+- Golang, Gorilla
 - Pyhon, Django, Flask
 - PHP, Laravel, Yii2, CodeIgniter
 - Nodejs, Expressjs, NestJS, Sequelize
