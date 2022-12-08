@@ -104,4 +104,11 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>
 </div>
 
-</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anytod92&" alt="anytod92" /></td>
+<td><img align="left" src="https://github-readme-stats.vercel.app/api?username=anytod92&show_icons=true&theme=synthwave" alt="anytod92" /></td>
+<td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anytod92&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="anytod92" /></td>
+</td>
+</tr>
+</tbody></table>
