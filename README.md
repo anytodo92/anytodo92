@@ -106,7 +106,7 @@
 
 </td></tr>
 <tr>
-<td><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anytod92&" alt="anytod92" /></td>
+<td><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anytod92" alt="anytod92" /></td>
 <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=anytod92&show_icons=true&theme=synthwave" alt="anytod92" /></td>
 <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anytod92&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="anytod92" /></td>
 </td>
